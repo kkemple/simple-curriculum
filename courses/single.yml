@@ -1,0 +1,9 @@
+title: Single-section Course
+description: This course has a single section
+
+sections:
+  -
+    title: Welcome to the Wheelhouse
+    description: This section introduces Wheelhouse
+    modules:
+      - SSC-01_intro-to-wheelhouse

@@ -1,0 +1,33 @@
+title: Intro to Wheelhouse
+pre-requisites:
+learning-objective: Learn about wheelhouse
+screens:
+  - image-slide:
+      title: What is wheelhouse?
+      image: issues-icon.jpg
+      presenter-script:
+        - The best place to hit a baseball
+        - Where you steer a boat
+        - An online education provider for GitHub
+  - video-slide:
+      title: Look at what we do
+      video: https://youtu.be/Zhj46r5D0nQ
+      video-script:
+        - do: Start video
+          say: Here is what the product looks like
+  - lab:
+      title: Try a lab
+      id: WH-01-lab-01
+      presenter-script:
+        - He is a lab demo
+      steps:
+        - description: Let us pretend for a moment
+          id: WH-01-fake-lab
+          verifications:
+            - verification-type: fake-verification
+              id: WH-01-fake-verification
+              success-message: There is no success
+              failure-message: Nor is there failure
+additional-labs:
+additional-questions:
+resources:

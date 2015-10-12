@@ -1,0 +1,22 @@
+title: WH History Today
+pre-requisites:
+learning-objective: Current Events
+screens:
+  - image-slide:
+      title: Where we are doing
+      image: issues-icon.jpg
+      presenter-script:
+        - Say something fun
+  - image-slide:
+      title: Who is doing it
+      image: issues-icon.jpg
+      presenter-script:
+        - Say something fun
+  - image-slide:
+      title: Where we do it
+      image: issues-icon.jpg
+      presenter-script:
+        - Say something fun
+additional-labs:
+additional-questions:
+resources:

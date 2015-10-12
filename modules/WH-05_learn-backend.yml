@@ -1,0 +1,17 @@
+title: WH Tech
+pre-requisites:
+learning-objective: How we do
+screens:
+  - image-slide:
+      title: Get the backend running
+      image: issues-icon.jpg
+      presenter-script:
+        - Say something fun
+  - image-slide:
+      title: Make the frontend work
+      image: issues-icon.jpg
+      presenter-script:
+        - Say something fun
+additional-labs:
+additional-questions:
+resources:

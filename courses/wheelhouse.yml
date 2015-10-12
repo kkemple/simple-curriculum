@@ -1,0 +1,21 @@
+title: Wheelhouse Intro
+description: This course covers Wheelhouse
+
+sections:
+  -
+    title: Welcome to the Wheelhouse
+    description: This section introduces Wheelhouse
+    modules:
+      - WH-01_intro-to-wheelhouse
+  -
+    title: Wheelhouse History
+    description: This section covers the history of Wheelhouse
+    modules:
+      - WH-02_wheelhouse-early-days
+      - WH-03_wheelhouse-today
+      - WH-04_wheelhouse-tomorrow
+  -
+    title: Wheelhouse Tech
+    description: This section introduces the tech behind wheelhouse
+    modules:
+      - WH-05_learn-backend

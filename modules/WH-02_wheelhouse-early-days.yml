@@ -1,0 +1,17 @@
+title: WH History the Early Days
+pre-requisites:
+learning-objective: History lesson
+screens:
+  - image-slide:
+      title: Where we came from
+      image: issues-icon.jpg
+      presenter-script:
+        - Say something fun
+  - image-slide:
+      title: What we did
+      image: issues-icon.jpg
+      presenter-script:
+        - Say something fun
+additional-labs:
+additional-questions:
+resources:
